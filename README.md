@@ -1,4 +1,4 @@
-# Renewable Energy Group (renewable-energy-group)
+# Renewable Energy Group
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,111 +64,69 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Renewable Energy Group (REG) is a North American producer of biodiesel and renewable diesel, founded with biodiesel operations dating to 1996 and formally established as a separate company in 2006, with headquarters in Ames, Iowa. REG operated as a publicly traded company on Nasdaq under the ticker REGI until February 28, 2022, when Chevron Corporation announced the acquisition of REG for approximately $3.15 billion. The deal closed on June 13, 2022, and REG now operates as a wholly owned subsidiary of Chevron under the Chevron Renewable Energy Group brand at chevron-reg.com.
+Renewable Energy Group (REG) is a North American producer of biodiesel and renewable diesel, founded with biodiesel operations dating to 1996 and formally established as a separate company in 2006, with headquarters in Ames, Iowa. REG operated as a publicly traded company on Nasdaq under the ticker REGI until February 28, 2022, when Chevron Corporation announced the acquisition of REG for approximately $3.15 billion; the deal closed on June 13, 2022, and REG now operates as a wholly owned subsidiary of Chevron under the Chevron Renewable Energy Group brand at chevron-reg.com. REG operates a fleet of biorefineries across the United States and Europe, producing biodiesel, renewable diesel, and related lower-carbon fuel products from a diversified mix of feedstocks including used cooking oil, inedible animal fats, distillers corn oil, and vegetable oils. As of this profile, neither REG nor the Chevron Renewable Energy Group subsidiary publishes a public consumer-facing developer API, OpenAPI specification, SDK, CLI, or GitHub organization; customer, supplier, distributor, and feedstock-partner integrations are handled through Chevron Renewable Energy Group sales, supply, and supplier-relations channels.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/renewable-energy-group/refs/heads/main/apis.yml)
+**Areas:** Acquired · Ames Iowa · Biodiesel · Biofuels · Biorefinery · Chevron Subsidiary · Distillers Corn Oil · Energy · Feedstock · Fortune 1000 · Lower Carbon Fuels · REG
 
-## Scope
+## Renewable Energy Group on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Renewable Energy Group is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/renewable-energy-group/](https://apis.io/providers/renewable-energy-group/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+## Where to find this API
 
-- Acquired
-- Ames Iowa
-- Biodiesel
-- Biofuels
-- Biorefinery
-- Chevron Subsidiary
-- Distillers Corn Oil
-- Energy
-- Feedstock
-- Fortune 1000
-- Lower Carbon Fuels
-- REG
-- REG-9000
-- Renewable Diesel
-- Renewable Fuels
-- Used Cooking Oil
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Timestamps
+- [Website](https://www.chevron-reg.com)
 
-- **Created:** 2026-05-05
-- **Modified:** 2026-05-23
+## API Evangelist rating
 
-## APIs
+**Kin Score 2.9** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-Neither legacy Renewable Energy Group nor its post-acquisition successor Chevron Renewable Energy Group publishes a public consumer-facing developer API, OpenAPI specification, SDK, CLI, or GitHub organization. Customer, supplier, distributor, and feedstock-partner integrations are handled through Chevron Renewable Energy Group sales, supply, and supplier-relations channels.
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
 
-## Acquisition
+**Agent readiness 0.0** — human-only
 
-- **Announced:** February 28, 2022
-- **Closed:** June 13, 2022
-- **Deal Value:** approximately $3.15 billion
-- **Acquirer:** Chevron Corporation
-- **Target:** Renewable Energy Group Inc (Nasdaq: REGI)
-- **Post-Acquisition Status:** Wholly owned subsidiary operating as Chevron Renewable Energy Group
-- **Headquarters Retained:** Ames, Iowa
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-## Common Properties
+**Regulatory alignment 0.0** — Energy & Utilities
 
-- [Website (Chevron Renewable Energy Group)](https://www.chevron-reg.com)
-- [Legacy Renewable Energy Group Website](https://www.regi.com)
-- [Parent Company — Chevron Corporation](https://www.chevron.com)
-- [Parent Company Profile in API Evangelist Network](https://github.com/api-evangelist/chevron)
-- [Acquisition Announcement (Chevron Newsroom)](https://www.chevron.com/newsroom/2022/q1/chevron-announces-agreement-to-acquire-renewable-energy-group)
-- [Acquisition Close (Chevron Newsroom)](https://www.chevron.com/newsroom/2022/q2/chevron-completes-acquisition-of-renewable-energy-group)
-- [Products](https://www.chevron-reg.com/products/)
-- [Newsroom](https://www.chevron-reg.com/news/)
-- [Contact / Supplier](https://www.chevron-reg.com/contact/)
-- [Sustainability at Chevron](https://www.chevron.com/sustainability)
-- [Lower Carbon at Chevron](https://www.chevron.com/what-we-do/lower-carbon)
-- [Chevron Careers](https://careers.chevron.com/)
-- [LinkedIn — Chevron Renewable Energy Group](https://www.linkedin.com/company/chevron-renewable-energy-group)
-- [Wikipedia — Renewable Energy Group](https://en.wikipedia.org/wiki/Renewable_Energy_Group)
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/renewable-energy-group/](https://apis.io/providers/renewable-energy-group/).
 
-## Product Lines
+## How this profile is made
 
-- Biodiesel
-- Renewable Diesel
-- REG-9000 Biodiesel Grades
-- Heating Oil Blendstock
-- Lower-Carbon Fuel Blends
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Feedstocks
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Renewable Energy Group: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- Used Cooking Oil
-- Inedible Animal Fats
-- Distillers Corn Oil
-- Soybean Oil
-- Canola Oil
-- Other Vegetable Oils
+## Open an issue
 
-## Use Cases
-
-- Biodiesel Production
-- Renewable Diesel Production
-- Biorefinery Operations
-- Feedstock Sourcing and Aggregation
-- Lower-Carbon Fuel Distribution
-- Fleet Fuel Supply
-- Heating Oil Blending
-
-## Developer Resources
-
-- **Public API:** None published
-- **OpenAPI Specification:** None published
-- **SDK:** None published
-- **CLI:** None published
-- **GitHub Organization:** None published
-- **Developer Portal:** None published
-- **Status Page:** None published
-- **RSS Feed:** None published
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/renewable-energy-group/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
